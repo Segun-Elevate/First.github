@@ -1,3 +1,3 @@
 # First.github
 First Github
-Learns commit to devops
+Let's commit to devops
